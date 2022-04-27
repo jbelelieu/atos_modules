@@ -1,4 +1,4 @@
-![ATOS Logo](assets/atos_logo.png)
+<img alt="ATOS Logo" src="https://github.com/jbelelieu/atos/blob/develop/assets/atos_logo.png?raw=true" style="width: 200px;float:left;" />
 
 **Built by freelancer 🙋‍♂️, for freelancers 🕺 🤷 💃🏾 .**
 
