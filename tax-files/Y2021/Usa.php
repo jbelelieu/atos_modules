@@ -25,17 +25,17 @@ class Usa
 
     const REGION = 'Usa Federal';
     
-    const YEAR = 2022;
+    const YEAR = 2021;
 
     public function single(): array
     {
         return [
-            10 => 10275,
-            12 => 41775,
-            22 => 89075,
-            24 => 170050,
-            32 => 215950,
-            35 => 539900,
+            10 => 9950,
+            12 => 40525,
+            22 => 86375,
+            24 => 164925,
+            32 => 209425,
+            35 => 523600,
             37 => null,
         ];
     }
